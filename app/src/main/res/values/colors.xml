@@ -9,6 +9,11 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="colorRectangle">#455A64</color>
-    <color name="colorBackground">#FF37</color>
-    <color name="colorAccent">#FF6200EE</color>
+    <color name="colorBackground">#FFD79E</color>
+    <color name="colorAccent">#FF6200EE</color>D
+    <color name="colorCat">#FFFFB84C</color>D
+    <color name="colorGrass">#FF617A55</color>D
+    <color name="colorSky">#FFAFD3E2</color>D
+    <color name="colorSun">#FFF9D949</color>D
+    <color name="colorCatNose">#FF7A7A</color>D
 </resources>
